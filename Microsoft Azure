@@ -1,0 +1,64 @@
+Microsoft’s computing platform is called Microsoft Azure, also known as Azure. 
+The term Azure means sky blue color and is usually the typical color of “the cloud".
+
+- Historically, the cloud platform was called Windows Azure that was originally built on Windows Server 2008 for developers who want to host their software applications like Windows environment to the cloud.
+- The public cloud has features that are useful to many.
+ - These features include not requiring upfront costs for Capital Expenditures (CapEx) to scale up resources, quick provisioning and de-provisioning of applications, and flexibility for organizations to only pay for what they use.
+- Azure is a public cloud provider, but they also offer private, hybrid, and multi-cloud solutions to its users.
+
+# Benefits of a Cloud Provider
+Benefit
+
+Description
+
+- High availability
+
+Microsoft Azure provides high availability and redundancy across all of its worldwide data centers offering a service-level agreement that ensures 99.95% availability.
+
+- Geo-distribution
+
+Azure helps global enterprises by providing geo-distribution features. Geography-specific endpoints enable international enterprises to comply with regional compliance and regulations.
+
+- Scalability On-demand
+
+When the demand for complexity, traffic, and data expands, there should be a flexible and quick way to handle such needs.
+
+- Reliability
+
+The system or application hosted should function correctly even in the face of adversity (hardware or software faults, and even human error).
+
+- Elasticity
+
+A capability to automatically scale cloud resources based on configuration or demand.
+
+- Disaster recovery
+
+When your applications, data, and systems are hosted in Azure, you can be assured of secured end-to-end backup and disaster recovery solutions.
+
+- Flexibility
+
+Cloud services in Azure give organizations flexibility by allowing them to use consumption pricing plans and full self-service management accessible anywhere.
+
+- Cost Management Tools
+
+There are tools available for cost management in Azure and users can also set budget alerts for their resource groups and resources.
+
+# Azure Portal
+
+-The self-managed portal of Microsoft’s cloud platform is called the Azure Portal, which can be accessed by Azure users on their web browsers or via the Azure Mobile App.
+
+# The following are some of the known features of the Azure Portal:
+
+--Create, build, manage and monitor Azure services and cloud resources all in one place at anytime and anywhere at your own convenience,
+--Use command line tools and cloud shell for quick creation and deployments,
+--Manage and organize Azure Subscriptions and create management groups that help in structuring and governing Azure resources,
+--Azure Active Directory (Azure AD) as a great tool for the management of identity, access, and permissions to resources,
+
+# Microsoft Azure Services
+
+
+
+
+
+
+
